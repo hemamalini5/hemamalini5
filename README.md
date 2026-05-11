@@ -2,7 +2,7 @@
 <h3 align="center">🛡️ Cybersecurity Enthusiast | Python Developer | IBM SkillsBuild Certified</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C896&center=true&vCenter=true&width=600&lines=B.Tech+Cybersecurity+%7C+CGPA%3A+8.21;Phishing+Detection+%7C+Blockchain+Voting;Steganography+%7C+Password+Security;Ready+to+defend+the+digital+world+%F0%9F%94%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C896&center=true&vCenter=true&width=600&lines=B.Tech+Cybersecurity+Graduate;Phishing+Detection+%7C+Blockchain+Voting;Steganography+%7C+Password+Security;Ready+to+defend+the+digital+world+%F0%9F%94%90" alt="Typing SVG" />
 </p>
 
 ---
