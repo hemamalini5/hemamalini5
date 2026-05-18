@@ -1,19 +1,19 @@
 <h1 align="center">Hi There 👋, I'm Hemamalini Githolla</h1>
-<h3 align="center">🛡️ Cybersecurity Enthusiast | Python Developer | IBM SkillsBuild Certified</h3>
+<h3 align="center">🛡️ Cybersecurity | Python | Network Security | IBM Certified | ISC2 CC Candidate</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C896&center=true&vCenter=true&width=600&lines=B.Tech+Cybersecurity+Graduate;Phishing+Detection+%7C+Blockchain+Voting;Steganography+%7C+Password+Security;Ready+to+defend+the+digital+world+%F0%9F%94%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C896&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+Python+Developer;Phishing+Detection+%7C+Password+Security;Steganography+%7C+Network+Security;Ready+to+defend+the+digital+world+%F0%9F%94%90" alt="Typing SVG" />
 </p>
 
 ---
 
-- 🔭 I'm currently working on **Python-based Cybersecurity Tools** — phishing detection, steganography & blockchain voting systems
+- 🔭 I'm currently working on **Python-based Cybersecurity Tools** — phishing detection, steganography & password security
 - 🌱 I'm currently deepening my skills in **Network Security, Vulnerability Assessment & Secure Coding**
 - 👯 I'm looking to collaborate on **Cybersecurity Projects, CTF Challenges & Ethical Hacking**
 - 🤝 I'm interested in **Threat Analysis, Digital Forensics, and Information Security**
 - 👩‍💻 All of my projects are available at **[github.com/hemamalini5](https://github.com/hemamalini5)**
-- 💬 Ask me about **Python, SHA-256, XOR Encryption, LSB Steganography, Solidity**
-- 📫 How to reach me: **[hemamalini5@gmail.com](mailto:hemamalini5@gmail.com)**
+- 💬 Ask me about **Python, SHA-256, XOR Encryption, LSB Steganography, SPF/DKIM/DMARC**
+- 📫 How to reach me: **[hemamalinig712@gmail.com](mailto:hemamalinig712@gmail.com)**
 - 📄 Know about my experiences: **[LinkedIn Profile](https://www.linkedin.com/in/hemamalini5)**
 - ⚡ Fun fact: **I can hide secret messages inside images using Steganography — and you'd never know! 🕵️‍♀️**
 
@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/hemamalini5" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://github.com/hemamalini5" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
-<a href="mailto:hemamalini5@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
+<a href="mailto:hemamalinig712@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
 </p>
 
 ---
@@ -38,9 +38,6 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
-  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/>
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
@@ -53,9 +50,6 @@
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   </a>
-  <a href="https://remix.ethereum.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" alt="remix ide" width="40" height="40"/>
-  </a>
 </p>
 
 ---
@@ -63,6 +57,7 @@
 ## 🏆 Certifications
 
 - 🥇 **IBM SkillsBuild — Cybersecurity Fundamentals** | Edunet Foundation | June 2025
+- 🎯 **ISC2 Certified in Cybersecurity (CC)** | Currently Preparing
 - 🏅 **Hackerverse CTF Challenge** | EC-Council | Participation Certificate | July 2025
 
 ---
@@ -70,16 +65,13 @@
 ## 📌 Featured Projects
 
 ### 🎣 Phishing Attack Simulation & Detection
-> Python-based URL and email analyser using keyword filtering & structure checks to classify 20+ phishing samples. Full codebase on GitHub.
+> Python-based automated detection engine that evaluates cryptographic email headers (SPF/DKIM/DMARC) and URL entropy to output heuristic risk scores and classify social engineering threats.
 
 ### 🔑 Password Security Analyser
-> Password strength tool with **SHA-256 hashing**, salted credential simulation & dictionary attack modelling to study secure authentication.
-
-### 🗳️ Blockchain-Based Voting System
-> Decentralised voting dApp built in **Solidity** with duplicate-vote prevention. Smart contract logic validated via Remix VM.
+> Python-based adaptive password analyzer implementing SHA-256 hashing, salted defense mechanisms, and real-world attack simulations — dictionary, brute-force, and rainbow table — with entropy-based strength evaluation.
 
 ### 🕵️ Steganography & Data Security Tool
-> Implemented **XOR encryption** with **LSB image embedding** to explore covert data hiding and information confidentiality concepts.
+> Multi-layered steganographic security tool using XOR cryptography and custom LSB algorithms with noise-injection across RGB image channels to produce visually undetectable media for covert data transmission.
 
 ---
 
